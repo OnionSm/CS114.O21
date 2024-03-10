@@ -5,7 +5,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS114.021 - MÁY HỌC</b></h1>
+<h1 align="center"><b>CS114.O21 - MÁY HỌC</b></h1>
 
 # Thông tin môn học
 | Môn Học      | Máy Học (Machine Learning) |
