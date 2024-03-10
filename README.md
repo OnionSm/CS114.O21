@@ -1,7 +1,7 @@
 # Thông tin môn học
 | Môn Học      | Máy Học (Machine Learning) |
 |--------------|-----------------------------|
-| Lớp          | CS114.M11                   |
+| Lớp          | CS114.O21                   |
 | GV Lý Thuyết| PGS.TS Lê Đình Duy          |
 | GV Lý Thuyết| ThS. Phạm Nguyễn Trường An |
 # Thông tin thành viên
