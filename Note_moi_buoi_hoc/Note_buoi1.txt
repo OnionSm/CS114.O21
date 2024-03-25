@@ -1,0 +1,19 @@
+Các vấn đề đã được trình bày hôm nay
+Tại sao cần học máy học
+- Máy học là nền tảng AI
+- Cơ hội việc làm cao hơn so với các ngành nghề khác
+- Machine Learning có nhiều ứng dụng và góp mặt phần lớn vào các công nghệ và ứng dụng AI hiện nay
+- Machine Learning đem lại rất nhiều thành tựu trong lĩnh vực AI: Alphago, Google Deepmind, AI 
+- Machine Learning có thể được hiểu là tương tự như AI
+- Deep Learning là một nhánh con của Machine Learning
+- Nên học Machine Learning trước Deep Learning.
+- Một ví dụ nổi tiếng của Deep Learning hay Machine Learning là chatGPT.
+Xây dựng route map 
+Các kỹ năng được hướng dẫn:
+- Tùy theo cách tiếp cận, mà mình có thể lựa chọn phương pháp học tập phù hợp, có nên tìm hiểu và đào sâu thuật toán và các mô hình hay không.
+- Có 2 phương hướng tiếp cạnh môn Machine Learning:
++ Thứ nhất: Học đào sâu, chi tiết, hiểu rõ ràng một mô hình và các tham số của nó.
++ Thứ hai: Học cách sử dụng và ứng dụng thuật toán vào thực tế
+- Trong môn này, ta nên tập trung nhiều hơn vào việc ứng dụng như thế nào với các thuật toán và mô hình vào thực tế
+Concept of Machine Learning:
+- Feature, Training, Testing, Supervised/ Unsupervised Learning, Clustering, Gradient Descent
