@@ -28,3 +28,4 @@
 | 22520375 | Vương Dương Thái Hà | 22520375@gm.uit.edu.vn |
 | 22520234 | Phùng Văn Đạt  | 22520234@gm.uit.edu.vn |
 | 22520363 | Lê Văn Giáp    | 22520363@gm.uit.edu.vn |
+| 22520033 | Trương Huỳnh Thúy An | 22520033@gm.uit.edu.vn |
