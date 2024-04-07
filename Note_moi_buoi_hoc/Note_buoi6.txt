@@ -1,0 +1,18 @@
+Các vấn đề được trình bày:
+- Cách học : Phải học theo kiểu làm rồi nếu không hiểu thì quay lại xem lý thuyết
+- Nói về lịch sử của thư tay trước khi có thư điện tử cũng như Zip code
+- Đưa ra giải pháp, cách làm, các rule để nhận diện logo Honda
+- 7 bước trong việc tạo mô hình Machine Learning: Data collection, Data preparation, Choose a model, Model training, Evaluation, Hyper parameter, Predict
+- Data variation: data phải bao phủ được hết các điều kiện
+- Confusion
+- Các model đều có những pros and cons
+Các kĩ năng được hướng dẫn:
+- Các bước quan trọng để có thể thu thập data
+- Cách để chọn được 1 model 
+Những điều đã học được:
+- Các thức thu thập data, data phải như thế nào mới sử dụng được
+- Các yếu tố quan trọng ảnh hướng tới việc training 
+- Các yếu tố trong ảnh cần quan tâm đến: ánh sáng, màu sắc, góc nhìn
+- Cách chọn model phù hợp với dataset mà mình có
+- Các vấn đề chung về các mô hình máy học 
+
